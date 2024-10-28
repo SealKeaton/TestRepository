@@ -6,7 +6,7 @@ spring:
   #MySQL数据库连接信息
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/dlyk
+    url: jdbc:mysql://localhost:3306/mp
     username: root
     password: mysql
 
