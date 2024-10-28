@@ -1,5 +1,7 @@
 spring:
   application:
+    #项目名称
     name: one
 server:
+  #端口号
   port: 8088
