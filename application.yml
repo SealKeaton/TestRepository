@@ -1,3 +1,5 @@
-spring :
-  application :
-    name : one
+spring:
+  application:
+    name: one
+server:
+  port: 8088
